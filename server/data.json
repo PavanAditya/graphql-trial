@@ -1,0 +1,81 @@
+{
+  "friends": [
+    {
+      "id": "1",
+      "name": "Pavan Aditya M S",
+      "email": "msp@gmail.com",
+      "age": 21,
+      "goodAt": "Talking"
+    },
+    {
+      "id": "2",
+      "name": "Teja",
+      "email": "iamcool@gmail.com",
+      "age": 24,
+      "goodAt": "Gaming"
+    },
+    {
+      "id": "3",
+      "name": "Kamesh Srikar",
+      "email": "vks@gmail.com",
+      "age": 22,
+      "goodAt": "Nothing"
+    },
+    {
+      "id": "4",
+      "name": "Harshitha Patnaik",
+      "email": "pat@gmail.com",
+      "age": 22,
+      "goodAt": "Singing"
+    },
+    {
+      "id": "5",
+      "name": "Vinod V",
+      "email": "vinod@gmail.com",
+      "age": 22,
+      "goodAt": "Coding"
+    },
+    {
+      "id": "6",
+      "name": "Akshatha",
+      "email": "aks@gmail.com",
+      "age": 21,
+      "goodAt": "Eating"
+    },
+    {
+      "id": "7",
+      "name": "Steve Rogers",
+      "email": "cap@gmail.com",
+      "age": 124,
+      "goodAt": "Leading"
+    },
+    {
+      "id": "8",
+      "name": "Tony Stark",
+      "email": "tony@gmail.com",
+      "age": 52,
+      "goodAt": "Inventing"
+    },
+    {
+      "name": "Hulk",
+      "email": "bruce@gmail.com",
+      "age": 65,
+      "id": "9",
+      "goodAt": "Smashing"
+    },
+    {
+      "name": "Hulk",
+      "email": "bruce@gmail.com",
+      "age": 65,
+      "id": "11",
+      "goodAt": "Smashing"
+    },
+    {
+      "name": "Tejas",
+      "email": "tejas@gmail.com",
+      "age": 25,
+      "id": "20",
+      "goodAt": "Coding"
+    }
+  ]
+}
